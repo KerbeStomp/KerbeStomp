@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KerbeStomp
 - 👀 I’m interested in learning more about programming overall.
-- 🌱 I’m currently learning Python 3.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on simple projects as of right now.
 - 📫 How to reach me: I'm not sure yet lol.
 
