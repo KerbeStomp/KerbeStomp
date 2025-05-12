@@ -1,40 +1,40 @@
-# Hi, I'm Jacob
+# 👋🏽 Hi, I'm Jacob!
 
-## About Me
+## 😼 About Me 
 
-💻 Currently studying C.
+Currently studying differential equations + linear algebra.
 
-🚀 Proficient in:
-- **Languages**: C++, x86_64 Assembly
+Proficient in:
+- **Languages**: Bash, C, C++, x86_64 Assembly
 - **Tools**: Vim, Git
 
-## Projects
+## 🚀 Projects 
 
 ### CBST Final Project
-- [x] A Binary Search Tree project I worked on for my data structures class.
+- [x] A Binary Search Tree project created for my data structures class.
 
 ### Custom Arch Linux Installation
 - [x] A bash script that automates the setup of Arch Linux, including:
-- Automated partitioning
-- Networking setup
-- Custom packages installed
+  - Networking setup
+  - Automated partitioning
+  - Package installation
+  - GRUB bootloader
 
 ### Hyprland Theme
-- [ ] A Hyprland theme based on the game NieR: Automata
-- All code used is based on flick0's dotfiles from the hyprland-yorha branch
+- [ ] Custom Hyperland theme with AGS widgets
 
-## Skills
+## 🖥️ Skills 
 
-- **Bash Scripting**: Learning bash along the way as I work on an Arch project; It's such a fresh experience.
-- **Assembly Language**: Finished up a class on x86_64 assembly; Learned about syscalls, functions, structures, and bootloader code.
-- **C++**: Took classes on C++ programming and data structures; Experienced with pointers, trees, memory management, and objects.
+- **Bash Scripting**: Learned bash syntax from creating a custom Arch installer. It was an interesting experience.
+- **Assembly Language**: Finished a class on x86_64 assembly. I learned about syscalls, functions, structures, and bootloader code.
+- **C++**: Took classes on C++ and data structures. Experienced with pointers, trees, memory management, and objects.
 
-## Hobbies
+## 🎮 Hobbies 
 
-🎮 In my free time, I enjoy:
-- **Spending time with my cats**
+In my free time, I enjoy:
+- **Spending time with my cat**
 - **Playing games I buy on sale**
-- **Watching random informative videos**
+- **Indulding in spontaneous interests**
 
 <!---
 KerbeStomp/KerbeStomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
