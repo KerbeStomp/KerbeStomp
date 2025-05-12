@@ -34,7 +34,7 @@ Proficient in:
 In my free time, I enjoy:
 - **Spending time with my cat**
 - **Playing games I buy on sale**
-- **Indulding in spontaneous interests**
+- **Indulging in spontaneous interests**
 
 <!---
 KerbeStomp/KerbeStomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
